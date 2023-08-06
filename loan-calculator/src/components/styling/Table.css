@@ -1,0 +1,42 @@
+table{
+    width:800px;
+    margin: 0 20px 0 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.payment-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .payment-table th, .payment-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .payment-table th {
+    background-color: #f2f2f2;
+  }
+  
+
+  .payment-table td {
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 20%;
+  }
+  
+  .payment-table tbody tr:nth-child(odd) {
+    background-color: #f9f9f9; 
+  }
+  
+  .payment-table tr {
+    border: 1px solid black;
+  }
+
+  .column-width {
+    width: 20%; 
+  }
