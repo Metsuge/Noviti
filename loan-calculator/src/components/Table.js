@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import TableChild from "./TableChild";
 import "./styling/Table.css";
 
